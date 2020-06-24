@@ -1,0 +1,5 @@
+
+*.pdb
+*.ilk
+build/my_prog.exe
+build/main.obj
